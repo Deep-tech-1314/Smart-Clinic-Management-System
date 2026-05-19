@@ -1,0 +1,20 @@
+# Uploads (user data)
+uploads/profiles/*
+uploads/records/*
+!uploads/.gitkeep
+
+# Error logs
+error.log
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment
+.env
